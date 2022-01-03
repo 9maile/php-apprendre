@@ -26,6 +26,9 @@
       <h2>Les exercices en php</h2>
       <ol>
           <li>premier exo</li>
+          <li><a ref="/exo2.php">Exercice 2</a>:décoder des chaines de caractère</li>
+          <li><a ref="/exo3.php">Exercice 3</a>:Travailler avec les tableaux</li>
+          <li><a ref="/exo4.php">Exercice 4</a>:Table de Vigenère</li>
       </ol>
       </div>
     
